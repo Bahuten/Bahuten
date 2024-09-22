@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">Software Developer</h3>
 
-- 💬 Ask me about Java, JS, Python, Spring, Angular*
+- 💬 Ask me about **Java, JS, Python, Spring, Angular**
 
 - 📫 How to reach me: **wcuthbert17@gmail.com**
   
