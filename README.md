@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 
-🔧 **Software Engineer** | **Full-Stack Developer**
+<h3 align="center">🔧 <b>Software Developer</b> | <b>Full-Stack Developer</b></h3>
 
 I specialize in building scalable applications and backend development. Passionate about solving problems and delivering quality solutions.
 
